@@ -1,3 +1,1 @@
-function alerter() {
-  alert("This is JavaScript");
-};
+alert("This is JavaScript");
